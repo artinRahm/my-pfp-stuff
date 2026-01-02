@@ -7,8 +7,8 @@
 
     body {
       overflow: hidden;
-      background: black;
-      color: white;
+      background: rgb(0, 0, 0);
+      color: rgb(255, 255, 255);
       position: relative;
       height: 100vh;
       width: 100vw;
@@ -152,8 +152,8 @@
     }
     
     ::selection {
-        background: #fff;
-        color: #000;
+        background: #29bffa;
+        color: #35eeeeda;
     }
    
    
